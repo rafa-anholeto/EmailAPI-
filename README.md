@@ -2,7 +2,7 @@
 <p> Criação de uma api simples de envio de e-mails, sem muitas regras por enquanto, continuarei implementando!
 
 
-Criação com intuito de ***estudo*** de mensageria assíncrona, utilizando Java com linguagem e o SMPT do Google.
+Criação com intuito de ***estudo*** de mensageria assíncrona, utilizando Java como linguagem e o SMPT do Google.
 
 > O que ainda será implementado:
 
